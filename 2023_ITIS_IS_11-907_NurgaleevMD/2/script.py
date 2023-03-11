@@ -7,7 +7,7 @@ from pymorphy2 import MorphAnalyzer
 directory = os.fsencode(r'C:\Users\mansu\Desktop\IS_2023\2023_ITIS_IS_11-907_NurgaleevMD\1\texts')
 
 
-patterns = "[A-Za-z0-9!#$%&'()*+,./:;<=>?@[\]^_`{|}~—\"\-]+"
+patterns = "[^а-яА-Я]+"
 
 with open(r'C:\Users\mansu\Desktop\IS_2023\2023_ITIS_IS_11-907_NurgaleevMD\2\stopwords.txt', 'r', encoding='utf-8') as file:
     stopwords = file.read()
