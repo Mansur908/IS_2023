@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import os
 
 import requests
@@ -55,7 +54,6 @@ while count < 100:
     print(count)
 
 print("Success")
-=======
 import os
 
 import requests
@@ -112,6 +110,3 @@ while count < 100:
     print(count)
 
 print("Success")
-
-
->>>>>>> e9d909bdf98dde9ef01063ab32659e5957228db4

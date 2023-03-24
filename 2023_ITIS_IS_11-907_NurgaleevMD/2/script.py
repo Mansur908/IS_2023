@@ -47,7 +47,3 @@ for file in os.listdir(directory):
 
 
 print('Success')
-
-
-
-

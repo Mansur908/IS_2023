@@ -14,6 +14,8 @@ with open(r'C:\Users\mansu\Desktop\IS_2023\2023_ITIS_IS_11-907_NurgaleevMD\3\ind
 
 all = set(range(1,101))
 
+all = set([str(i) for i in all])
+
 new_arr = []
 
 for i in range(len(arr)):
@@ -43,4 +45,11 @@ elif arr[1] == '&' or arr[1] == 'И':
 if len(result) == 0:
     print("не найдено")
 else:
-    print(result)
+    result = set([int(i) for i in result])
+    print(sorted(result))
+
+
+# трудоустройство & !эфиопия | !министерство
+
+# январь & переводить | проявлять		январь & !переводить | !проявлять
+# январь | переводить | проявлять		январь | !переводить | !проявлять
