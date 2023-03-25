@@ -1,5 +1,6 @@
 import os
 import sys
+import json as j
 
 json = dict()
 
@@ -13,11 +14,14 @@ for file in os.listdir(directory):
 
     for word in data.split(' '):
         if word in json:
-            json.get(word).add(file_num)
+            if not json.get(word).__contains__(file_num):
+                json.get(word).append(file_num)
         else:
-            json[word] = {file_num}
+            json[word] = [file_num]
 
-with open(rf'C:\Users\mansu\Desktop\IS_2023\2023_ITIS_IS_11-907_NurgaleevMD\3\index.json', 'w', encoding='utf-8') as file:
-    file.write(str(json))
+
+print(len(json.keys()))
+# with open(rf'C:\Users\mansu\Desktop\IS_2023\2023_ITIS_IS_11-907_NurgaleevMD\3\index.json', 'w', encoding='utf-8') as file:
+#     j.dump(json, file, ensure_ascii=False)
 
 print('Success')

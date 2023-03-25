@@ -1,3 +1,4 @@
+import math
 import os
 import sys
 
@@ -35,7 +36,7 @@ for file in os.listdir(directory):
 
 
 try:
-    idf = num_documents/document_contain_word_count
+    idf = round(math.log(num_documents/document_contain_word_count), 6)
 except:
     print("Термина нет в документах")
     sys.exit()
