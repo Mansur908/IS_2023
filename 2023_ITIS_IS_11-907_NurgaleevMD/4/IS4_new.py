@@ -51,5 +51,5 @@ for word in count_of_doc_contain_word.keys():
                                                     "TF-IDF": round(tf*idf, 6)})
 
 with open('index.json', 'w', encoding="utf-8") as fp:
-    json.dump(result_dict, fp, indent=4)
+    json.dump(result_dict, fp, ensure_ascii=False, indent=4)
 
