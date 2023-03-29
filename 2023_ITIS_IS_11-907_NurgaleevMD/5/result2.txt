@@ -1,400 +1,101 @@
 цена соланы
-Index: 88
-URL:https://crypto.ru/solana/
-Cosine:0.9999999009004285
-
-Index: 30
-URL:https://crypto.ru/kriptovalyuty-ne-zavisyashchie-ot-bitcoin/
-Cosine:0.9986849498040706
-
-Index: 9
-URL:https://crypto.ru/kriptovalyuta-kotoraya-mozhet-silno-podorozhat/
-Cosine:0.9985236213112677
-
-Index: 1
-URL:https://crypto.ru/novosti/
-Cosine:0.0028660466256207233
-
-Index: 10
-URL:https://crypto.ru/rossijskaya-kriptovalyuta/
-Cosine:0.0028660466256207233
-
-Index: 100
-URL: https://crypto.ru/ada-uah/
-Cosine:0.0028660466256207233
-
-Index: 11
-URL:https://crypto.ru/reyting-steyblkoinov/
-Cosine:0.0028660466256207233
-
-Index: 12
-URL:https://crypto.ru/spisok-nft-tokenov/
-Cosine:0.0028660466256207233
-
-Index: 13
-URL:https://crypto.ru/novye-tokeny/
-Cosine:0.0028660466256207233
-
-Index: 14
-URL:https://crypto.ru/defi-proekty/
-Cosine:0.0028660466256207233
-
-Index: 15
-URL:https://crypto.ru/anonimnye-kriptovalyuty/
-Cosine:0.0028660466256207233
-
-Index: 16
-URL:https://crypto.ru/ogranichennaya-kriptovalyuta/
-Cosine:0.0028660466256207233
-
-Index: 17
-URL:https://crypto.ru/samaya-dorogaya-kriptovalyuta/
-Cosine:0.0028660466256207233
-
-Index: 18
-URL:https://crypto.ru/spisok-luchshih-masternod/
-Cosine:0.0028660466256207233
-
-Index: 19
-URL:https://crypto.ru/kakoj-kriptovalyutoj-luchshe-torgovat/
-Cosine:0.0028660466256207233
-
-Index: 2
-URL:https://crypto.ru/
-Cosine:0.0028660466256207233
-
-Index: 20
-URL:https://crypto.ru/novye-kriptovalyuty/
-Cosine:0.0028660466256207233
-
-Index: 21
-URL:https://crypto.ru/konkurenty-ethereuma/
-Cosine:0.0028660466256207233
-
-Index: 22
-URL:https://crypto.ru/perspektivnye-altcoin/
-Cosine:0.0028660466256207233
-
-Index: 23
-URL:https://crypto.ru/volatilnye-kriptovalyuty/
-Cosine:0.0028660466256207233
-
-Index: 24
-URL:https://crypto.ru/kriptovalyuta-privyazannaya-k-dollaru/
-Cosine:0.0028660466256207233
-
-Index: 25
-URL:https://crypto.ru/nedoocenennye-kriptovalyuty/
-Cosine:0.0028660466256207233
-
-Index: 26
-URL:https://crypto.ru/samaya-stabilnaya-kriptovalyuta/
-Cosine:0.0028660466256207233
-
-Index: 27
-URL:https://crypto.ru/spisok-tokenov/
-Cosine:0.0028660466256207233
-
-Index: 28
-URL:https://crypto.ru/decentralizovannye-kriptovalyuty/
-Cosine:0.0028660466256207233
-
-Index: 29
-URL:https://crypto.ru/kriptovalyuta-obespechennaya-zolotom/
-Cosine:0.0028660466256207233
-
-Index: 3
-URL:https://crypto.ru/vakansii-sajta/
-Cosine:0.0028660466256207233
-
-Index: 31
-URL:https://crypto.ru/blokchejn-igry/
-Cosine:0.0028660466256207233
-
-Index: 32
-URL:https://crypto.ru/play-to-earn/
-Cosine:0.0028660466256207233
-
-Index: 33
-URL:https://crypto.ru/move-to-earn/
-Cosine:0.0028660466256207233
-
-Index: 34
-URL:https://crypto.ru/tokeny-birzh-kriptovalyut/
-Cosine:0.0028660466256207233
-
-Index: 35
-URL:https://crypto.ru/kakuyu-kriptovalyutu-kupit/
-Cosine:0.0028660466256207233
-
-Index: 36
-URL:https://crypto.ru/tokeny-ethereum/
-Cosine:0.0028660466256207233
-
-Index: 37
-URL:https://crypto.ru/prognozy-btc/
-Cosine:0.0028660466256207233
-
-Index: 38
-URL:https://crypto.ru/prognozy-eth/
-Cosine:0.0028660466256207233
-
-Index: 39
-URL:https://crypto.ru/bitcoin/
-Cosine:0.0028660466256207233
-
-Index: 4
-URL:https://forum.crypto.ru
-Cosine:0.0028660466256207233
-
-Index: 40
-URL: https://crypto.ru/btc-usd/
-Cosine:0.0028660466256207233
-
-Index: 41
-URL: https://crypto.ru/btc-rub/
-Cosine:0.0028660466256207233
-
-Index: 42
-URL: https://crypto.ru/btc-eur/
-Cosine:0.0028660466256207233
-
-Index: 43
-URL: https://crypto.ru/btc-kzt/
-Cosine:0.0028660466256207233
-
-Index: 44
-URL: https://crypto.ru/btc-uah/
-Cosine:0.0028660466256207233
-
-Index: 45
-URL: https://crypto.ru/btc-jpy/
-Cosine:0.0028660466256207233
-
-Index: 46
-URL:https://crypto.ru/ethereum/
-Cosine:0.0028660466256207233
-
-Index: 47
-URL: https://crypto.ru/eth-usd/
-Cosine:0.0028660466256207233
-
-Index: 48
-URL: https://crypto.ru/eth-rub/
-Cosine:0.0028660466256207233
-
-Index: 49
-URL: https://crypto.ru/eth-eur/
-Cosine:0.0028660466256207233
-
-Index: 5
-URL:https://crypto.ru/kurs-kriptovalyut/
-Cosine:0.0028660466256207233
-
-Index: 50
-URL: https://crypto.ru/eth-kzt/
-Cosine:0.0028660466256207233
-
-Index: 51
-URL: https://crypto.ru/eth-uah/
-Cosine:0.0028660466256207233
-
-Index: 52
-URL: https://crypto.ru/eth-jpy/
-Cosine:0.0028660466256207233
-
-Index: 53
-URL:https://crypto.ru/tether/
-Cosine:0.0028660466256207233
-
-Index: 54
-URL: https://crypto.ru/usdt-usd/
-Cosine:0.0028660466256207233
-
-Index: 55
-URL: https://crypto.ru/usdt-rub/
-Cosine:0.0028660466256207233
-
-Index: 56
-URL: https://crypto.ru/usdt-eur/
-Cosine:0.0028660466256207233
-
-Index: 57
-URL: https://crypto.ru/usdt-kzt/
-Cosine:0.0028660466256207233
-
-Index: 58
-URL: https://crypto.ru/usdt-uah/
-Cosine:0.0028660466256207233
-
-Index: 59
-URL: https://crypto.ru/usdt-jpy/
-Cosine:0.0028660466256207233
-
-Index: 60
-URL:https://crypto.ru/ripple/
-Cosine:0.0028660466256207233
-
-Index: 61
-URL: https://crypto.ru/xrp-usd/
-Cosine:0.0028660466256207233
-
-Index: 62
-URL: https://crypto.ru/xrp-rub/
-Cosine:0.0028660466256207233
-
-Index: 63
-URL: https://crypto.ru/xrp-eur/
-Cosine:0.0028660466256207233
-
-Index: 64
-URL: https://crypto.ru/xrp-kzt/
-Cosine:0.0028660466256207233
-
-Index: 65
-URL: https://crypto.ru/xrp-uah/
-Cosine:0.0028660466256207233
-
-Index: 66
-URL: https://crypto.ru/xrp-jpy/
-Cosine:0.0028660466256207233
-
-Index: 67
-URL:https://crypto.ru/binance-coin/
-Cosine:0.0028660466256207233
-
-Index: 68
-URL: https://crypto.ru/bnb-usd/
-Cosine:0.0028660466256207233
-
-Index: 69
-URL: https://crypto.ru/bnb-rub/
-Cosine:0.0028660466256207233
-
-Index: 7
-URL:https://crypto.ru/top-kriptovalyut/
-Cosine:0.0028660466256207233
-
-Index: 70
-URL: https://crypto.ru/bnb-eur/
-Cosine:0.0028660466256207233
-
-Index: 71
-URL: https://crypto.ru/bnb-kzt/
-Cosine:0.0028660466256207233
-
-Index: 72
-URL: https://crypto.ru/bnb-uah/
-Cosine:0.0028660466256207233
-
-Index: 73
-URL: https://crypto.ru/bnb-jpy/
-Cosine:0.0028660466256207233
-
-Index: 74
-URL:https://crypto.ru/usd-coin/
-Cosine:0.0028660466256207233
-
-Index: 75
-URL: https://crypto.ru/usdc-usd/
-Cosine:0.0028660466256207233
-
-Index: 76
-URL: https://crypto.ru/usdc-rub/
-Cosine:0.0028660466256207233
-
-Index: 77
-URL: https://crypto.ru/usdc-eur/
-Cosine:0.0028660466256207233
-
-Index: 78
-URL: https://crypto.ru/usdc-kzt/
-Cosine:0.0028660466256207233
-
-Index: 79
-URL: https://crypto.ru/usdc-uah/
-Cosine:0.0028660466256207233
-
-Index: 8
-URL:https://crypto.ru/top-5-kriptovalyut/
-Cosine:0.0028660466256207233
-
-Index: 80
-URL: https://crypto.ru/usdc-jpy/
-Cosine:0.0028660466256207233
-
-Index: 81
-URL:https://crypto.ru/binance-usd/
-Cosine:0.0028660466256207233
-
-Index: 82
-URL: https://crypto.ru/busd-usd/
-Cosine:0.0028660466256207233
-
-Index: 83
-URL: https://crypto.ru/busd-rub/
-Cosine:0.0028660466256207233
-
-Index: 84
-URL: https://crypto.ru/busd-eur/
-Cosine:0.0028660466256207233
-
-Index: 85
-URL: https://crypto.ru/busd-kzt/
-Cosine:0.0028660466256207233
-
-Index: 86
-URL: https://crypto.ru/busd-uah/
-Cosine:0.0028660466256207233
-
-Index: 87
-URL: https://crypto.ru/busd-jpy/
-Cosine:0.0028660466256207233
-
-Index: 89
-URL: https://crypto.ru/sol-usd/
-Cosine:0.0028660466256207233
-
-Index: 90
-URL: https://crypto.ru/sol-rub/
-Cosine:0.0028660466256207233
-
-Index: 91
-URL: https://crypto.ru/sol-eur/
-Cosine:0.0028660466256207233
-
-Index: 92
-URL: https://crypto.ru/sol-kzt/
-Cosine:0.0028660466256207233
-
-Index: 93
-URL: https://crypto.ru/sol-uah/
-Cosine:0.0028660466256207233
-
-Index: 94
-URL: https://crypto.ru/sol-jpy/
-Cosine:0.0028660466256207233
-
-Index: 95
-URL:https://crypto.ru/cardano/
-Cosine:0.0028660466256207233
-
-Index: 96
-URL: https://crypto.ru/ada-usd/
-Cosine:0.0028660466256207233
-
-Index: 97
-URL: https://crypto.ru/ada-rub/
-Cosine:0.0028660466256207233
-
-Index: 98
-URL: https://crypto.ru/ada-eur/
-Cosine:0.0028660466256207233
-
-Index: 99
-URL: https://crypto.ru/ada-kzt/
-Cosine:0.0028660466256207233
-
-Index: 6
-URL:https://crypto.ru/kategorii-monet/
-Cosine:0.0
+Index: 88  Cosine:0.9999999007567959
+Index: 30  Cosine:0.9986831808444768
+Index: 9  Cosine:0.99852157783277
+Index: 1  Cosine:0.0028660466256207233
+Index: 10  Cosine:0.0028660466256207233
+Index: 100  Cosine:0.0028660466256207233
+Index: 11  Cosine:0.0028660466256207233
+Index: 12  Cosine:0.0028660466256207233
+Index: 13  Cosine:0.0028660466256207233
+Index: 14  Cosine:0.0028660466256207233
+Index: 15  Cosine:0.0028660466256207233
+Index: 16  Cosine:0.0028660466256207233
+Index: 17  Cosine:0.0028660466256207233
+Index: 18  Cosine:0.0028660466256207233
+Index: 19  Cosine:0.0028660466256207233
+Index: 2  Cosine:0.0028660466256207233
+Index: 20  Cosine:0.0028660466256207233
+Index: 21  Cosine:0.0028660466256207233
+Index: 22  Cosine:0.0028660466256207233
+Index: 23  Cosine:0.0028660466256207233
+Index: 24  Cosine:0.0028660466256207233
+Index: 25  Cosine:0.0028660466256207233
+Index: 26  Cosine:0.0028660466256207233
+Index: 27  Cosine:0.0028660466256207233
+Index: 28  Cosine:0.0028660466256207233
+Index: 29  Cosine:0.0028660466256207233
+Index: 3  Cosine:0.0028660466256207233
+Index: 31  Cosine:0.0028660466256207233
+Index: 32  Cosine:0.0028660466256207233
+Index: 33  Cosine:0.0028660466256207233
+Index: 34  Cosine:0.0028660466256207233
+Index: 35  Cosine:0.0028660466256207233
+Index: 36  Cosine:0.0028660466256207233
+Index: 37  Cosine:0.0028660466256207233
+Index: 38  Cosine:0.0028660466256207233
+Index: 39  Cosine:0.0028660466256207233
+Index: 4  Cosine:0.0028660466256207233
+Index: 40  Cosine:0.0028660466256207233
+Index: 41  Cosine:0.0028660466256207233
+Index: 42  Cosine:0.0028660466256207233
+Index: 43  Cosine:0.0028660466256207233
+Index: 44  Cosine:0.0028660466256207233
+Index: 45  Cosine:0.0028660466256207233
+Index: 46  Cosine:0.0028660466256207233
+Index: 47  Cosine:0.0028660466256207233
+Index: 48  Cosine:0.0028660466256207233
+Index: 49  Cosine:0.0028660466256207233
+Index: 5  Cosine:0.0028660466256207233
+Index: 50  Cosine:0.0028660466256207233
+Index: 51  Cosine:0.0028660466256207233
+Index: 52  Cosine:0.0028660466256207233
+Index: 53  Cosine:0.0028660466256207233
+Index: 54  Cosine:0.0028660466256207233
+Index: 55  Cosine:0.0028660466256207233
+Index: 56  Cosine:0.0028660466256207233
+Index: 57  Cosine:0.0028660466256207233
+Index: 58  Cosine:0.0028660466256207233
+Index: 59  Cosine:0.0028660466256207233
+Index: 60  Cosine:0.0028660466256207233
+Index: 61  Cosine:0.0028660466256207233
+Index: 62  Cosine:0.0028660466256207233
+Index: 63  Cosine:0.0028660466256207233
+Index: 64  Cosine:0.0028660466256207233
+Index: 65  Cosine:0.0028660466256207233
+Index: 66  Cosine:0.0028660466256207233
+Index: 67  Cosine:0.0028660466256207233
+Index: 68  Cosine:0.0028660466256207233
+Index: 69  Cosine:0.0028660466256207233
+Index: 7  Cosine:0.0028660466256207233
+Index: 70  Cosine:0.0028660466256207233
+Index: 71  Cosine:0.0028660466256207233
+Index: 72  Cosine:0.0028660466256207233
+Index: 73  Cosine:0.0028660466256207233
+Index: 74  Cosine:0.0028660466256207233
+Index: 75  Cosine:0.0028660466256207233
+Index: 76  Cosine:0.0028660466256207233
+Index: 77  Cosine:0.0028660466256207233
+Index: 78  Cosine:0.0028660466256207233
+Index: 79  Cosine:0.0028660466256207233
+Index: 8  Cosine:0.0028660466256207233
+Index: 80  Cosine:0.0028660466256207233
+Index: 81  Cosine:0.0028660466256207233
+Index: 82  Cosine:0.0028660466256207233
+Index: 83  Cosine:0.0028660466256207233
+Index: 84  Cosine:0.0028660466256207233
+Index: 85  Cosine:0.0028660466256207233
+Index: 86  Cosine:0.0028660466256207233
+Index: 87  Cosine:0.0028660466256207233
+Index: 89  Cosine:0.0028660466256207233
+Index: 90  Cosine:0.0028660466256207233
+Index: 91  Cosine:0.0028660466256207233
+Index: 92  Cosine:0.0028660466256207233
+Index: 93  Cosine:0.0028660466256207233
+Index: 94  Cosine:0.0028660466256207233
+Index: 95  Cosine:0.0028660466256207233
+Index: 96  Cosine:0.0028660466256207233
+Index: 97  Cosine:0.0028660466256207233
+Index: 98  Cosine:0.0028660466256207233
+Index: 99  Cosine:0.0028660466256207233
+Index: 6  Cosine:0.0
